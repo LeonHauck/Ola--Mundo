@@ -1,3 +1,3 @@
 # Olá, Mundo!
- Primeiro Repositório versionado do cruso de Git e Github
+ Primeiro Repositório versionado do curso de Git e Github
  
