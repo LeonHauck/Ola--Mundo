@@ -1,14 +1,15 @@
 # 🌐 Meu Primeiro Olá Mundo em HTML
 
 ## 📝 Sobre o Projeto
-Este repositório guarda uma relíquia da minha jornada na programação: o **primeiro código HTML que escrevi na vida** há alguns anos. 
+Este repositório guarda uma relíquia da minha jornada na programação: o **primeiro código HTML que escrevi na vida**. 
 
-Seguindo a tradição milenar dos desenvolvedores, comecei com o clássico **"Olá, Mundo!"** e aproveitei para testar meus primeiros parágrafos utilizando textos informativos (*Lorem Ipsum*). 
+Embora o commit neste repositório seja de **2025** (quando decidi organizar meus códigos e guardá-lo de forma segura), a criação real deste arquivo foi por volta de **2018**. 
 
-Hoje, este projeto serve como um marco inicial da minha história na tecnologia e um lembrete físico de onde tudo começou.
+Seguindo a tradição milenar dos desenvolvedores, comecei com o clássico **"Olá, Mundo!"** usando uma linha divisória e os famosos parágrafos de teste (*Lorem Ipsum*). Hoje, este projeto serve como um marco inicial da minha história na tecnologia e um lembrete físico de onde tudo começou.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias e Ferramentas
 * **HTML5**: Estruturação da página.
+* **VS Code**: O editor de código utilizado para escrever as primeiras linhas.
 
 ## 💻 Código Fonte Original
 O projeto foi construído em um arquivo único com a seguinte estrutura:
@@ -39,6 +40,4 @@ Não é necessário instalar nenhuma ferramenta ou servidor para rodar este proj
 4. O seu navegador de internet vai abrir a página automaticamente.
 
 ---
-*Olhar para o passado nos mostra o tamanho da nossa evolução. 🚀*
-
- 
+*Olhar para o passado nos mostra o tamanho da nossa evolução. Desde 2018 na jornada! 🚀*
